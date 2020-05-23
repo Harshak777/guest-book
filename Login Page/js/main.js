@@ -10,7 +10,7 @@ function onsubmit(button1){
     button1.preventDefault();
     if (wallet.isSignedIn()==true){
         //Passthrough to next page
-        window.open('http://192.81.216.47:1234/')
+        window.open('https://1234-bc91611f-4939-41f4-ad10-adf3735939c5.ws-us02.gitpod.io/')
     }
     else{
         //Proceed to testnet login page
