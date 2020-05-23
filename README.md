@@ -108,3 +108,24 @@ As you can see in `package.json`, this does two things:
   [CLI]: https://www.w3schools.com/whatis/whatis_cli.asp
   [create-near-app]: https://github.com/nearprotocol/create-near-app
   [gh-pages]: https://github.com/tschaub/gh-pages
+
+
+Mobile App Prototypes
+======
+Get Started Screen
+![Get Started Screen](https://github.com/Harshak777/guest-book/blob/master/images_prototypes/mobile%20app%20prototypes/GetStarted.png)
+
+SignUp|Login Screen
+![SignUp_Login Screen](https://github.com/Harshak777/guest-book/blob/master/images_prototypes/mobile%20app%20prototypes/Sigun%20Up%20%20login.png)
+
+Start Message Screen
+![Start Message Screen](https://github.com/Harshak777/guest-book/blob/master/images_prototypes/mobile%20app%20prototypes/msg%20chat.png)
+
+Share Screen
+![Share Screen](https://github.com/Harshak777/guest-book/blob/master/images_prototypes/mobile%20app%20prototypes/share.png)
+
+Text Message Screen
+![Text Message Screen](https://github.com/Harshak777/guest-book/blob/master/images_prototypes/mobile%20app%20prototypes/text%20msg.png)
+
+Voice Message Screen
+![Text Message Screen](https://github.com/Harshak777/guest-book/blob/master/images_prototypes/mobile%20app%20prototypes/voice%20chat.png)
